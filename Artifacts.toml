@@ -1,0 +1,126 @@
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2143f256a9b8d47426c4cf06b82346d9e8aa2f9b"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[IpoptMKL.download]]
+    sha256 = "7909911b155478fff1f62e9993727378dea933317c2eece21486845028fc5a69"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-apple-darwin14-libgfortran5-cxx11.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "365868a90cf23d306a88da866db77a9d539edd10"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IpoptMKL.download]]
+    sha256 = "885ad7ed8bb588c1c17b80244a91bddeeebfb042ce1f57687a7f56a7a84fff72"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07d5a382b7aec7ce08b8c492e877e0a78028ea06"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IpoptMKL.download]]
+    sha256 = "39d9744eecbbf4eb80dfb09797376f632194cd0231f0eb61f22c23cb2b5f6921"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c382adb29f692d012f5523d163af7146769bf8d"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[IpoptMKL.download]]
+    sha256 = "706d6f5aecaf39e76ad855df2108d086b5a785819f6378963cbe5b972bd434b3"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eac09494e1078649b9c971c5526be0fcbed02ea5"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IpoptMKL.download]]
+    sha256 = "6b426c1d7574abbf48f16f93a5e83e2c2e57c72b32e60739264ec97b64f64a23"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "88f299f1f16dcd02ef92e5c4eebff3e73cdf9787"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IpoptMKL.download]]
+    sha256 = "b597340d86461cae4575a96181d79dbdba2b2fde32f6981ab7adede1fd54dd46"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e4f536e4d0e1c08c711f16deb2699e8b314ade13"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[IpoptMKL.download]]
+    sha256 = "15aa55abba0d844c4045f5e82b99ca769f9df803d309c5e7f4393ae24c4f22c1"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-apple-darwin14-libgfortran5-cxx03.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6f869c48bcd08634f43434e7791a35d34769b04"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IpoptMKL.download]]
+    sha256 = "0d58826f3fe4c0d3eb2697ff01a7c5006b2207398c97fc967b9dc1119e773e6a"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d855505904bf98fb290e8ce47c6140ce829aa650"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[IpoptMKL.download]]
+    sha256 = "b2a4cc00824dd1f837cec2ab5a2f28de512c7a1556c24aabc06507991119abab"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-apple-darwin14-libgfortran3-cxx11.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3d2a7c6fd4a65831f523ec962a2e0c708f836d7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IpoptMKL.download]]
+    sha256 = "d4b60fec4985eb668d7cf90ca6f9a160232c7b3ff147a8fe5db760d27f3143f0"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b4bbb9ea3ae2bf43facd030deb9bd88097df3bdf"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[IpoptMKL.download]]
+    sha256 = "643172e4eeb58b3bf7d57f43cc419bd96a46020acf3680d4239d06e618f8aeb8"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-apple-darwin14-libgfortran3-cxx03.tar.gz"
+[[IpoptMKL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "036d0d1a80c16c4759d148d0e543833b4c5764cc"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[IpoptMKL.download]]
+    sha256 = "8acbb9f1f4fc865207ebab1e3a79e1abff7a88c36c4b45178bdc00cdf1048f55"
+    url = "https://github.com/JuliaBinaryWrappers/IpoptMKL_jll.jl/releases/download/IpoptMKL-v3.13.2+0/IpoptMKL.v3.13.2.x86_64-apple-darwin14-libgfortran4-cxx03.tar.gz"
